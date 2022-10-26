@@ -1,2 +1,3 @@
 # 강의노트
-## https://www.notion.so/oralcoder/0-Django-Framework-e778aece1f1b41dcb62e1022f30257a3
+## https://oralcoder.notion.site/Python-Django-4f86e5618ee14c0fbf5c9c538ca6e991
+
